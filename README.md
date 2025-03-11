@@ -1,6 +1,6 @@
 # Snake-Gun-Water Game 🎮  
 
-
+A simple **Python-based CLI game** where the user competes against the computer in a **Snake-Gun-Water** challenge. This is a classic game similar to Rock-Paper-Scissors but with different elements.
 
 ## 🕹️ How to Play?  
 - 🐍 **Snake beats Water** (Snake drinks water)  
